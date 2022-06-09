@@ -63,4 +63,3 @@ insert into students (classroom_id, FirstName, LastName, username, password) val
 (9, 'Stephen', 'Sharp', 'KnightofVengeance', 'Granted'),
 (10, 'Gretchen', 'Gabriels', 'GivenGrace', 'rollfordmg');
 
-
